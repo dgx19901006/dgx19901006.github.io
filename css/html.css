@@ -11,4 +11,7 @@ P{
 	text-indent: 2em;
 
 }
-
+#footer{
+	height: 20px;
+	background-color: red;
+}
