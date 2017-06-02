@@ -70,13 +70,8 @@ nav ul li a {
 }
 
 h2 {
-	display: block;
-	font-size: 30px;
-	-webkit-margin-before: 0.83em;
-	-webkit-margin-after: 0.83em;
-	-webkit-margin-start: 0px;
-	-webkit-margin-end: 0px;
-	font-weight: bold;
+    font-size: 30px;
+
 }
 
 .green-area .hr {
@@ -125,19 +120,44 @@ button {
 	width: 100%;
 	height: 300px;
 }
-img {
-	width: 500px;
-	height: 300px;
-	float: left;
+.one .img img{
+    width: 500px;
+    height: 300px;
+    float: left;
 }
 .one h2 {
 	float: left;
 	position: relative;
 	left: 150px;
 	top: 100px;
+    color: black;
 }
 .one p {
 	float: left;
+	position: relative;
+	left: 50px;
+	top: 150px;
+	color: black;
+}
+.two {
+	    background-color: #373636;
+	    width: 100%;
+	    height: 300px;
+}
+.two .img2 img {
+	clear: both;
+	width: 500px;
+	height: 300px;
+	float: right;
+}
+.two h2 {
+	
+	position: relative;
+	left: 150px;
+	top: 100px;
+}
+.two p {
+	
 	position: relative;
 	left: 50px;
 	top: 150px;
