@@ -163,3 +163,25 @@ img {
 }
 .rongqi .jianjie2 h2 {
     text-align: center;
+    }
+.rongqi .jianjie2 .hr {
+	background: #1d0c1c;
+    width: 60%;
+    height: 2px;
+    margin: 0px auto;
+} 
+.sub-heading {
+	max-width: 600px;
+	margin-left: 240px;
+	text-align: center;
+}
+.card {
+	float: left;
+	position: relative;
+	left: 40px;
+	width: 50%;
+	min-height: 300px;
+	padding: 50px;
+	box-sizing: border-box;
+	
+}
